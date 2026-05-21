@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE `your-project-id.retail_bronze.sales_raw`
+CREATE OR REPLACE TABLE `gcp-project-usecase.retail_bronze.sales_raw`
 (
 transaction_id STRING,
 transaction_ts TIMESTAMP,

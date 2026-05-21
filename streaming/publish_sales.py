@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 from google.cloud import pubsub_v1
 
-PROJECT_ID = "your-project-id"
+PROJECT_ID = "gcp-project-usecase"
 TOPIC_ID = "retail-sales-topic"
 
 publisher = pubsub_v1.PublisherClient()
@@ -14,6 +14,8 @@ topic_path = publisher.topic_path(
     PROJECT_ID,
     TOPIC_ID
 )
+
+print("Publishing to:", topic_path)
 
 products = [
     ("P001", "Running Shoes", "Footwear", 3000),
@@ -48,10 +50,14 @@ while True:
         "ingestion_ts": datetime.utcnow().isoformat()
     }
 
-    publisher.publish(
-        topic_path,
-        json.dumps(event).encode("utf-8")
-    )
+    future = publisher.publish(
+    topic_path,
+    json.dumps(event).encode("utf-8")
+)
+
+    message_id = future.result()
+
+    print("Published message ID:", message_id)
 
     print(event)
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PROJECT_ID="your-project-id"
+export PROJECT_ID="gcp-project-usecase"
 export REGION="us-central1"
 export BUCKET="retail-intelligence-$PROJECT_ID"
 

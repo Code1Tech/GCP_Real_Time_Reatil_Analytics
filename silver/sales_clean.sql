@@ -1,55 +1,41 @@
 CREATE OR REPLACE TABLE
-`your-project-id.retail_silver.sales_clean`
-
+`gcp-project-usecase.retail_silver.sales_clean`
 PARTITION BY DATE(transaction_ts)
-
 CLUSTER BY store_id, product_id
-
 AS
 
 SELECT
 
-transaction_id,
+    transaction_id,
 
-transaction_ts,
+    TIMESTAMP(transaction_ts) AS transaction_ts,
 
-DATE(transaction_ts) AS transaction_date,
+    store_id,
 
-store_id,
+    region,
 
-region,
+    product_id,
 
-product_id,
+    product_name,
 
-product_name,
+    category,
 
-category,
+    customer_id,
 
-customer_id,
+    quantity,
 
-quantity,
+    unit_price,
 
-unit_price,
+    discount_amount,
 
-discount_amount,
+    (quantity * unit_price) - discount_amount
+        AS net_sales_amount,
 
-quantity * unit_price AS gross_sales,
+    payment_method,
 
-(quantity * unit_price)
-- discount_amount AS net_sales,
+    TIMESTAMP(ingestion_ts) AS ingestion_ts
 
-payment_method,
-
-ingestion_ts
-
-FROM `your-project-id.retail_bronze.sales_raw`
+FROM
+`gcp-project-usecase.retail_bronze.sales_raw`
 
 WHERE quantity > 0
-
-QUALIFY ROW_NUMBER() OVER(
-
-PARTITION BY transaction_id
-
-ORDER BY ingestion_ts DESC
-
-)=1;

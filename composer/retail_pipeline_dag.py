@@ -6,7 +6,7 @@ from airflow.providers.google.cloud.operators.bigquery import (
 
 from datetime import datetime
 
-PROJECT_ID = "your-project-id"
+PROJECT_ID = "gcp-project-usecase"
 
 default_args = {
     "owner": "retail-team",

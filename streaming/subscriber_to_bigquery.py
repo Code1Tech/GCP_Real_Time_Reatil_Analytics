@@ -2,11 +2,11 @@ import json
 from google.cloud import pubsub_v1
 from google.cloud import bigquery
 
-PROJECT_ID = "your-project-id"
+PROJECT_ID = "gcp-project-usecase"
 
 SUBSCRIPTION_ID = "retail-sales-sub"
 
-TABLE_ID = "your-project-id.retail_bronze.sales_raw"
+TABLE_ID = "gcp-project-usecase.retail_bronze.sales_raw"
 
 subscriber = pubsub_v1.SubscriberClient()
 

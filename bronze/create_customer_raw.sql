@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE `your-project-id.retail_bronze.customer_raw`
+CREATE OR REPLACE TABLE `gcp-project-usecase.retail_bronze.customer_raw`
 (
 customer_id STRING,
 customer_name STRING,

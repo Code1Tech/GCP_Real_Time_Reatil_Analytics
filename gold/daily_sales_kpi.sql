@@ -1,28 +1,31 @@
 CREATE OR REPLACE TABLE
-`your-project-id.retail_gold.daily_sales_kpi`
-
+`gcp-project-usecase.retail_gold.daily_sales_kpi`
 AS
 
 SELECT
 
-transaction_date,
+    DATE(transaction_ts) AS sales_date,
 
-region,
+    region,
 
-store_id,
+    store_id,
 
-SUM(net_sales) AS revenue,
+    category,
 
-SUM(quantity) AS units_sold,
+    SUM(net_sales_amount)
+        AS total_sales,
 
-COUNT(DISTINCT transaction_id)
-AS total_transactions,
+    SUM(quantity)
+        AS total_units_sold,
 
-AVG(net_sales)
-AS avg_transaction_value
+    COUNT(DISTINCT transaction_id)
+        AS total_transactions,
+
+    AVG(net_sales_amount)
+        AS avg_transaction_value
 
 FROM
-`your-project-id.retail_silver.sales_clean`
+`gcp-project-usecase.retail_silver.sales_clean`
 
 GROUP BY
-1,2,3;
+1,2,3,4

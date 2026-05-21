@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE `your-project-id.retail_bronze.inventory_raw`
+CREATE OR REPLACE TABLE `gcp-project-usecase.retail_bronze.inventory_raw`
 (
 inventory_event_id STRING,
 event_ts TIMESTAMP,
