@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,brand,cost_price,selling_price,supplier,reorder_level
+P0001,StepUp Gym Equipment 1,Sports,Gym Equipment,StepUp,11009,18741.74,Supplier 4,70
+P0002,StepUp Perfume 2,Beauty,Perfume,GlowCare,19149,32643.86,Supplier 19,70
+P0003,FitPro Running Shoes 3,Footwear,Running Shoes,DailyStyle,11315,14512.0,Supplier 4,90
+P0004,GlowCare Makeup 4,Beauty,Makeup,DailyStyle,3087,4934.65,Supplier 9,37
+P0005,DailyStyle Perfume 5,Beauty,Perfume,FitPro,6791,11462.26,Supplier 13,91
+P0006,UrbanWear Fitness Band 6,Sports,Fitness Band,TechNova,17478,25277.48,Supplier 50,75
+P0007,DailyStyle Smart Watch 7,Electronics,Smart Watch,GlowCare,19174,24726.69,Supplier 28,66
+P0008,DailyStyle Mobile 8,Electronics,Mobile,UrbanWear,10809,16694.77,Supplier 50,59
+P0009,GlowCare Sandals 9,Footwear,Sandals,UrbanWear,14790,26964.86,Supplier 15,45
+P0010,UrbanWear Mobile 10,Electronics,Mobile,StepUp,3111,4082.79,Supplier 40,38
+P0011,UrbanWear Mobile 11,Electronics,Mobile,TechNova,11548,21869.55,Supplier 29,80
+P0012,StepUp Jeans 12,Fashion,Jeans,StepUp,7148,13867.21,Supplier 35,86
+P0013,StepUp Smart Watch 13,Electronics,Smart Watch,DailyStyle,16127,29400.2,Supplier 45,22
+P0014,StepUp Perfume 14,Beauty,Perfume,UrbanWear,17562,21838.03,Supplier 19,45
+P0015,UrbanWear Yoga Mat 15,Sports,Yoga Mat,UrbanWear,2039,3394.86,Supplier 25,54
+P0016,DailyStyle Mobile 16,Electronics,Mobile,GlowCare,925,1380.56,Supplier 15,68
+P0017,GlowCare Fitness Band 17,Sports,Fitness Band,FitPro,3563,7496.1,Supplier 35,31
+P0018,FitPro Running Shoes 18,Footwear,Running Shoes,DailyStyle,16705,36196.25,Supplier 2,25
+P0019,GlowCare Sports Shoes 19,Footwear,Sports Shoes,DailyStyle,10291,15781.97,Supplier 11,22
+P0020,TechNova Smart Watch 20,Electronics,Smart Watch,StepUp,11831,18401.68,Supplier 33,55
+P0021,UrbanWear Jackets 21,Fashion,Jackets,FitPro,8743,18173.88,Supplier 18,48
+P0022,UrbanWear Sandals 22,Footwear,Sandals,DailyStyle,13172,24459.51,Supplier 25,86
+P0023,FitPro Fitness Band 23,Sports,Fitness Band,StepUp,7752,12537.57,Supplier 28,59
+P0024,StepUp Yoga Mat 24,Sports,Yoga Mat,DailyStyle,15018,26164.87,Supplier 9,94
+P0025,TechNova Fitness Band 25,Sports,Fitness Band,DailyStyle,6929,14291.67,Supplier 46,87
+P0026,FitPro Sandals 26,Footwear,Sandals,StepUp,5056,9385.11,Supplier 21,28
+P0027,StepUp Fitness Band 27,Sports,Fitness Band,DailyStyle,4179,5784.3,Supplier 2,60
+P0028,DailyStyle Makeup 28,Beauty,Makeup,DailyStyle,10240,16824.37,Supplier 18,39
+P0029,FitPro Running Shoes 29,Footwear,Running Shoes,FitPro,4610,6383.68,Supplier 18,97
+P0030,StepUp Fitness Band 30,Sports,Fitness Band,DailyStyle,7866,14130.17,Supplier 2,65
+P0031,FitPro Jackets 31,Fashion,Jackets,GlowCare,15917,21234.66,Supplier 46,67
+P0032,StepUp Sandals 32,Footwear,Sandals,StepUp,16403,27456.11,Supplier 15,24
+P0033,StepUp Skincare 33,Beauty,Skincare,DailyStyle,9142,19657.11,Supplier 43,45
+P0034,GlowCare Running Shoes 34,Footwear,Running Shoes,FitPro,6102,12979.58,Supplier 32,61
+P0035,UrbanWear Skincare 35,Beauty,Skincare,FitPro,14310,22965.64,Supplier 48,68
+P0036,FitPro Laptop 36,Electronics,Laptop,DailyStyle,19041,34155.86,Supplier 46,24
+P0037,UrbanWear Gym Equipment 37,Sports,Gym Equipment,StepUp,15098,25015.88,Supplier 34,88
+P0038,FitPro Perfume 38,Beauty,Perfume,DailyStyle,1586,2787.71,Supplier 4,44
+P0039,TechNova Laptop 39,Electronics,Laptop,GlowCare,13342,27810.03,Supplier 11,74
+P0040,StepUp Smart Watch 40,Electronics,Smart Watch,GlowCare,2087,3944.33,Supplier 42,77
+P0041,FitPro Jackets 41,Fashion,Jackets,DailyStyle,16705,21936.53,Supplier 35,37
+P0042,StepUp Makeup 42,Beauty,Makeup,GlowCare,10899,17993.0,Supplier 38,45
+P0043,DailyStyle Skincare 43,Beauty,Skincare,DailyStyle,8494,12945.49,Supplier 11,35
+P0044,UrbanWear Shirts 44,Fashion,Shirts,FitPro,15025,27556.94,Supplier 46,69
+P0045,GlowCare Fitness Band 45,Sports,Fitness Band,UrbanWear,5539,8744.3,Supplier 50,41
+P0046,StepUp Smart Watch 46,Electronics,Smart Watch,StepUp,5218,7107.56,Supplier 50,26
+P0047,GlowCare Makeup 47,Beauty,Makeup,TechNova,10442,20154.75,Supplier 41,43
+P0048,TechNova Shirts 48,Fashion,Shirts,UrbanWear,6947,8360.94,Supplier 30,83
+P0049,GlowCare Perfume 49,Beauty,Perfume,StepUp,488,882.3,Supplier 14,95
+P0050,FitPro Makeup 50,Beauty,Makeup,FitPro,13739,22557.73,Supplier 1,51
+P0051,StepUp Yoga Mat 51,Sports,Yoga Mat,UrbanWear,18569,37511.63,Supplier 12,38
+P0052,UrbanWear Jackets 52,Fashion,Jackets,DailyStyle,11736,14514.16,Supplier 37,97
+P0053,GlowCare Laptop 53,Electronics,Laptop,StepUp,3173,3963.18,Supplier 11,56
+P0054,FitPro Fitness Band 54,Sports,Fitness Band,StepUp,19795,35082.33,Supplier 30,94
+P0055,TechNova Mobile 55,Electronics,Mobile,TechNova,3351,6596.48,Supplier 25,28
+P0056,StepUp Perfume 56,Beauty,Perfume,UrbanWear,2427,3623.1,Supplier 45,55
+P0057,DailyStyle Smart Watch 57,Electronics,Smart Watch,StepUp,13858,23900.15,Supplier 40,27
+P0058,GlowCare Jackets 58,Fashion,Jackets,DailyStyle,17632,38564.52,Supplier 45,97
+P0059,FitPro Laptop 59,Electronics,Laptop,FitPro,10670,15574.57,Supplier 23,36
+P0060,DailyStyle Fitness Band 60,Sports,Fitness Band,GlowCare,16565,28486.93,Supplier 32,43
+P0061,UrbanWear Gym Equipment 61,Sports,Gym Equipment,UrbanWear,9818,21395.95,Supplier 2,79
+P0062,GlowCare Jackets 62,Fashion,Jackets,GlowCare,7093,14182.91,Supplier 3,62
+P0063,StepUp Smart Watch 63,Electronics,Smart Watch,DailyStyle,7257,8790.38,Supplier 19,52
+P0064,TechNova Jeans 64,Fashion,Jeans,UrbanWear,10139,17304.13,Supplier 8,62
+P0065,UrbanWear Laptop 65,Electronics,Laptop,StepUp,18942,34398.55,Supplier 13,62
+P0066,UrbanWear Smart Watch 66,Electronics,Smart Watch,DailyStyle,15999,33856.49,Supplier 9,81
+P0067,FitPro Sports Shoes 67,Footwear,Sports Shoes,TechNova,15393,32203.05,Supplier 30,72
+P0068,DailyStyle Jackets 68,Fashion,Jackets,TechNova,10108,17840.04,Supplier 36,88
+P0069,TechNova Shirts 69,Fashion,Shirts,UrbanWear,19220,36239.18,Supplier 10,55
+P0070,StepUp Jeans 70,Fashion,Jeans,FitPro,12595,23004.9,Supplier 39,69
+P0071,TechNova Sports Shoes 71,Footwear,Sports Shoes,DailyStyle,4128,8522.64,Supplier 21,24
+P0072,StepUp Laptop 72,Electronics,Laptop,TechNova,3144,5335.54,Supplier 29,58
+P0073,TechNova Sports Shoes 73,Footwear,Sports Shoes,UrbanWear,10206,14033.38,Supplier 50,45
+P0074,GlowCare Jeans 74,Fashion,Jeans,FitPro,16880,20676.9,Supplier 10,44
+P0075,TechNova Laptop 75,Electronics,Laptop,StepUp,17458,26367.84,Supplier 50,32
+P0076,UrbanWear Fitness Band 76,Sports,Fitness Band,GlowCare,4648,6531.31,Supplier 25,86
+P0077,DailyStyle Shirts 77,Fashion,Shirts,FitPro,10490,22368.22,Supplier 6,62
+P0078,DailyStyle Skincare 78,Beauty,Skincare,DailyStyle,3678,6328.28,Supplier 20,22
+P0079,StepUp Yoga Mat 79,Sports,Yoga Mat,TechNova,7176,10913.84,Supplier 18,88
+P0080,StepUp Laptop 80,Electronics,Laptop,TechNova,4155,6118.88,Supplier 8,21
+P0081,FitPro Fitness Band 81,Sports,Fitness Band,TechNova,17144,22327.92,Supplier 36,60
+P0082,StepUp Mobile 82,Electronics,Mobile,UrbanWear,9582,16999.26,Supplier 20,98
+P0083,UrbanWear Smart Watch 83,Electronics,Smart Watch,GlowCare,14837,18557.02,Supplier 44,26
+P0084,GlowCare Jeans 84,Fashion,Jeans,StepUp,2062,2651.98,Supplier 46,96
+P0085,TechNova Fitness Band 85,Sports,Fitness Band,TechNova,14909,27079.45,Supplier 13,88
+P0086,DailyStyle Jeans 86,Fashion,Jeans,GlowCare,18905,25177.59,Supplier 7,78
+P0087,StepUp Smart Watch 87,Electronics,Smart Watch,StepUp,15550,25976.99,Supplier 40,53
+P0088,DailyStyle Laptop 88,Electronics,Laptop,TechNova,6308,11982.77,Supplier 21,78
+P0089,TechNova Skincare 89,Beauty,Skincare,GlowCare,2441,4089.49,Supplier 30,41
+P0090,UrbanWear Laptop 90,Electronics,Laptop,GlowCare,19131,25394.37,Supplier 46,33
+P0091,FitPro Smart Watch 91,Electronics,Smart Watch,GlowCare,2624,5228.14,Supplier 26,95
+P0092,GlowCare Skincare 92,Beauty,Skincare,GlowCare,8285,14481.76,Supplier 5,63
+P0093,GlowCare Sports Shoes 93,Footwear,Sports Shoes,FitPro,19664,32074.9,Supplier 22,89
+P0094,DailyStyle Running Shoes 94,Footwear,Running Shoes,FitPro,2852,5531.07,Supplier 32,34
+P0095,UrbanWear Fitness Band 95,Sports,Fitness Band,GlowCare,15468,23594.55,Supplier 12,59
+P0096,FitPro Skincare 96,Beauty,Skincare,GlowCare,19903,26047.94,Supplier 21,83
+P0097,FitPro Shirts 97,Fashion,Shirts,DailyStyle,7430,14986.56,Supplier 1,38
+P0098,FitPro Sandals 98,Footwear,Sandals,FitPro,17708,26411.54,Supplier 29,45
+P0099,DailyStyle Sports Shoes 99,Footwear,Sports Shoes,TechNova,10674,16008.17,Supplier 28,64
+P0100,FitPro Jackets 100,Fashion,Jackets,GlowCare,566,1025.3,Supplier 9,57
+P0101,UrbanWear Jeans 101,Fashion,Jeans,DailyStyle,18285,39640.04,Supplier 36,65
+P0102,DailyStyle Jeans 102,Fashion,Jeans,FitPro,1321,1895.95,Supplier 26,100
+P0103,GlowCare Smart Watch 103,Electronics,Smart Watch,FitPro,12843,20626.28,Supplier 14,42
+P0104,TechNova Skincare 104,Beauty,Skincare,GlowCare,6467,11352.31,Supplier 10,56
+P0105,UrbanWear Running Shoes 105,Footwear,Running Shoes,StepUp,680,864.79,Supplier 47,82
+P0106,GlowCare Skincare 106,Beauty,Skincare,GlowCare,3074,4110.62,Supplier 45,97
+P0107,GlowCare Perfume 107,Beauty,Perfume,FitPro,6191,10242.36,Supplier 29,69
+P0108,UrbanWear Mobile 108,Electronics,Mobile,FitPro,6388,10379.04,Supplier 32,50
+P0109,FitPro Yoga Mat 109,Sports,Yoga Mat,TechNova,13762,29265.78,Supplier 3,24
+P0110,GlowCare Yoga Mat 110,Sports,Yoga Mat,DailyStyle,12377,16253.04,Supplier 6,38
+P0111,FitPro Yoga Mat 111,Sports,Yoga Mat,FitPro,15535,26672.81,Supplier 6,51
+P0112,FitPro Perfume 112,Beauty,Perfume,FitPro,2858,5384.68,Supplier 20,98
+P0113,GlowCare Jeans 113,Fashion,Jeans,GlowCare,17831,35279.12,Supplier 33,80
+P0114,TechNova Fitness Band 114,Sports,Fitness Band,TechNova,11163,18095.4,Supplier 11,24
+P0115,FitPro Fitness Band 115,Sports,Fitness Band,TechNova,10263,19776.51,Supplier 4,100
+P0116,DailyStyle Perfume 116,Beauty,Perfume,TechNova,5840,10353.5,Supplier 48,99
+P0117,FitPro Jeans 117,Fashion,Jeans,UrbanWear,16184,20756.14,Supplier 18,52
+P0118,TechNova Sports Shoes 118,Footwear,Sports Shoes,UrbanWear,9506,14023.41,Supplier 48,34
+P0119,DailyStyle Gym Equipment 119,Sports,Gym Equipment,GlowCare,19691,38180.2,Supplier 24,42
+P0120,FitPro Smart Watch 120,Electronics,Smart Watch,UrbanWear,8039,13545.06,Supplier 22,30
+P0121,GlowCare Sports Shoes 121,Footwear,Sports Shoes,GlowCare,5351,10903.27,Supplier 16,76
+P0122,TechNova Running Shoes 122,Footwear,Running Shoes,UrbanWear,19231,37199.7,Supplier 42,53
+P0123,GlowCare Shirts 123,Fashion,Shirts,TechNova,5791,9636.31,Supplier 31,88
+P0124,StepUp Sandals 124,Footwear,Sandals,FitPro,13081,21905.31,Supplier 28,21
+P0125,FitPro Laptop 125,Electronics,Laptop,DailyStyle,12817,24076.65,Supplier 3,32
+P0126,GlowCare Fitness Band 126,Sports,Fitness Band,FitPro,11894,25645.65,Supplier 42,54
+P0127,TechNova Laptop 127,Electronics,Laptop,DailyStyle,9051,18122.97,Supplier 38,70
+P0128,FitPro Perfume 128,Beauty,Perfume,StepUp,8223,15905.86,Supplier 34,63
+P0129,UrbanWear Sandals 129,Footwear,Sandals,UrbanWear,18244,22085.78,Supplier 1,72
+P0130,TechNova Jackets 130,Fashion,Jackets,StepUp,3704,6983.89,Supplier 47,56
+P0131,UrbanWear Mobile 131,Electronics,Mobile,UrbanWear,1415,1731.54,Supplier 39,47
+P0132,UrbanWear Fitness Band 132,Sports,Fitness Band,UrbanWear,4290,8185.64,Supplier 39,36
+P0133,StepUp Perfume 133,Beauty,Perfume,UrbanWear,18848,37756.31,Supplier 45,43
+P0134,UrbanWear Laptop 134,Electronics,Laptop,DailyStyle,15601,29025.31,Supplier 30,55
+P0135,UrbanWear Perfume 135,Beauty,Perfume,TechNova,10897,15880.6,Supplier 50,27
+P0136,TechNova Makeup 136,Beauty,Makeup,TechNova,11200,24594.74,Supplier 12,76
+P0137,StepUp Jeans 137,Fashion,Jeans,DailyStyle,6875,12445.83,Supplier 32,33
+P0138,DailyStyle Sports Shoes 138,Footwear,Sports Shoes,UrbanWear,14431,20468.74,Supplier 29,53
+P0139,DailyStyle Shirts 139,Fashion,Shirts,TechNova,2689,3416.14,Supplier 50,77
+P0140,UrbanWear Jeans 140,Fashion,Jeans,UrbanWear,5177,9592.28,Supplier 43,69
+P0141,FitPro Mobile 141,Electronics,Mobile,UrbanWear,11107,23375.99,Supplier 33,82
+P0142,UrbanWear Makeup 142,Beauty,Makeup,FitPro,13535,27666.21,Supplier 15,20
+P0143,FitPro Perfume 143,Beauty,Perfume,TechNova,16096,21266.09,Supplier 22,58
+P0144,TechNova Skincare 144,Beauty,Skincare,UrbanWear,3270,5118.71,Supplier 30,57
+P0145,GlowCare Running Shoes 145,Footwear,Running Shoes,DailyStyle,18469,22889.21,Supplier 13,58
+P0146,DailyStyle Skincare 146,Beauty,Skincare,GlowCare,12072,20359.47,Supplier 48,44
+P0147,FitPro Running Shoes 147,Footwear,Running Shoes,StepUp,6627,8120.49,Supplier 32,69
+P0148,GlowCare Jackets 148,Fashion,Jackets,UrbanWear,10383,17647.82,Supplier 3,63
+P0149,StepUp Jeans 149,Fashion,Jeans,DailyStyle,1702,2732.57,Supplier 43,86
+P0150,FitPro Perfume 150,Beauty,Perfume,StepUp,17882,24121.99,Supplier 5,24
+P0151,FitPro Sandals 151,Footwear,Sandals,UrbanWear,924,1544.21,Supplier 16,36
+P0152,UrbanWear Shirts 152,Fashion,Shirts,GlowCare,1937,4076.73,Supplier 40,41
+P0153,FitPro Gym Equipment 153,Sports,Gym Equipment,FitPro,3784,4972.86,Supplier 15,28
+P0154,DailyStyle Sandals 154,Footwear,Sandals,DailyStyle,11354,22838.81,Supplier 26,61
+P0155,TechNova Jackets 155,Fashion,Jackets,StepUp,19173,33473.85,Supplier 49,25
+P0156,TechNova Gym Equipment 156,Sports,Gym Equipment,StepUp,11293,14265.56,Supplier 49,73
+P0157,GlowCare Sports Shoes 157,Footwear,Sports Shoes,StepUp,12421,21779.08,Supplier 38,25
+P0158,UrbanWear Running Shoes 158,Footwear,Running Shoes,GlowCare,12625,24967.98,Supplier 6,20
+P0159,FitPro Shirts 159,Fashion,Shirts,TechNova,3220,6139.71,Supplier 27,80
+P0160,FitPro Running Shoes 160,Footwear,Running Shoes,GlowCare,4988,9177.05,Supplier 27,50
+P0161,DailyStyle Sports Shoes 161,Footwear,Sports Shoes,GlowCare,1532,2751.89,Supplier 40,31
+P0162,StepUp Laptop 162,Electronics,Laptop,StepUp,14022,16890.48,Supplier 8,87
+P0163,FitPro Jackets 163,Fashion,Jackets,FitPro,12158,25078.68,Supplier 15,79
+P0164,StepUp Sandals 164,Footwear,Sandals,DailyStyle,2038,2840.4,Supplier 31,83
+P0165,TechNova Running Shoes 165,Footwear,Running Shoes,TechNova,1712,2146.9,Supplier 14,75
+P0166,DailyStyle Laptop 166,Electronics,Laptop,UrbanWear,15148,18833.77,Supplier 35,42
+P0167,UrbanWear Running Shoes 167,Footwear,Running Shoes,StepUp,16194,27771.15,Supplier 47,76
+P0168,DailyStyle Fitness Band 168,Sports,Fitness Band,DailyStyle,10981,17778.97,Supplier 21,49
+P0169,DailyStyle Jeans 169,Fashion,Jeans,GlowCare,7763,10076.87,Supplier 13,68
+P0170,UrbanWear Running Shoes 170,Footwear,Running Shoes,GlowCare,15733,28084.86,Supplier 10,47
+P0171,StepUp Yoga Mat 171,Sports,Yoga Mat,GlowCare,6134,9736.68,Supplier 47,44
+P0172,UrbanWear Laptop 172,Electronics,Laptop,DailyStyle,6926,10637.58,Supplier 37,27
+P0173,GlowCare Mobile 173,Electronics,Mobile,GlowCare,3940,8083.51,Supplier 11,63
+P0174,DailyStyle Sandals 174,Footwear,Sandals,FitPro,5437,10817.17,Supplier 11,93
+P0175,FitPro Gym Equipment 175,Sports,Gym Equipment,GlowCare,3133,5049.44,Supplier 14,95
+P0176,GlowCare Makeup 176,Beauty,Makeup,DailyStyle,9447,11473.42,Supplier 16,51
+P0177,FitPro Laptop 177,Electronics,Laptop,StepUp,19287,27433.96,Supplier 37,20
+P0178,DailyStyle Skincare 178,Beauty,Skincare,FitPro,1612,3532.33,Supplier 3,74
+P0179,DailyStyle Yoga Mat 179,Sports,Yoga Mat,UrbanWear,16004,32163.5,Supplier 29,83
+P0180,DailyStyle Running Shoes 180,Footwear,Running Shoes,DailyStyle,18600,36327.26,Supplier 27,47
+P0181,UrbanWear Sandals 181,Footwear,Sandals,UrbanWear,9992,14379.11,Supplier 31,59
+P0182,DailyStyle Sports Shoes 182,Footwear,Sports Shoes,FitPro,15349,31587.05,Supplier 2,78
+P0183,TechNova Skincare 183,Beauty,Skincare,DailyStyle,13582,18810.33,Supplier 30,20
+P0184,TechNova Jeans 184,Fashion,Jeans,GlowCare,11208,19400.16,Supplier 49,54
+P0185,DailyStyle Fitness Band 185,Sports,Fitness Band,UrbanWear,19149,38192.27,Supplier 40,62
+P0186,UrbanWear Jackets 186,Fashion,Jackets,GlowCare,12227,25529.71,Supplier 24,79
+P0187,DailyStyle Gym Equipment 187,Sports,Gym Equipment,FitPro,12279,19234.23,Supplier 46,28
+P0188,TechNova Fitness Band 188,Sports,Fitness Band,StepUp,7008,9379.55,Supplier 35,34
+P0189,DailyStyle Perfume 189,Beauty,Perfume,StepUp,19309,39991.48,Supplier 49,48
+P0190,GlowCare Laptop 190,Electronics,Laptop,TechNova,9060,15434.31,Supplier 4,28
+P0191,FitPro Laptop 191,Electronics,Laptop,UrbanWear,15124,25502.5,Supplier 31,88
+P0192,DailyStyle Yoga Mat 192,Sports,Yoga Mat,DailyStyle,15110,27514.57,Supplier 5,44
+P0193,StepUp Skincare 193,Beauty,Skincare,TechNova,2927,4655.93,Supplier 5,33
+P0194,GlowCare Sandals 194,Footwear,Sandals,StepUp,3970,7531.42,Supplier 14,86
+P0195,FitPro Jeans 195,Fashion,Jeans,StepUp,13949,30263.4,Supplier 31,64
+P0196,UrbanWear Makeup 196,Beauty,Makeup,UrbanWear,1003,1495.99,Supplier 15,86
+P0197,DailyStyle Laptop 197,Electronics,Laptop,TechNova,19262,29717.27,Supplier 32,95
+P0198,FitPro Fitness Band 198,Sports,Fitness Band,StepUp,14890,24687.73,Supplier 20,41
+P0199,TechNova Mobile 199,Electronics,Mobile,UrbanWear,16167,25412.94,Supplier 10,65
+P0200,StepUp Laptop 200,Electronics,Laptop,DailyStyle,5751,10458.94,Supplier 35,56
+P0201,UrbanWear Running Shoes 201,Footwear,Running Shoes,UrbanWear,5329,7254.13,Supplier 21,93
+P0202,StepUp Sandals 202,Footwear,Sandals,FitPro,8833,13864.91,Supplier 46,24
+P0203,FitPro Laptop 203,Electronics,Laptop,StepUp,5147,8095.79,Supplier 35,58
+P0204,StepUp Shirts 204,Fashion,Shirts,GlowCare,13556,28888.77,Supplier 21,39
+P0205,TechNova Jackets 205,Fashion,Jackets,DailyStyle,18196,39587.24,Supplier 46,57
+P0206,FitPro Makeup 206,Beauty,Makeup,DailyStyle,19099,35655.69,Supplier 29,63
+P0207,StepUp Jackets 207,Fashion,Jackets,DailyStyle,15995,33592.29,Supplier 36,34
+P0208,StepUp Mobile 208,Electronics,Mobile,GlowCare,13460,24463.85,Supplier 23,31
+P0209,StepUp Mobile 209,Electronics,Mobile,TechNova,6694,11938.29,Supplier 13,22
+P0210,UrbanWear Jackets 210,Fashion,Jackets,FitPro,14896,27960.74,Supplier 26,44
+P0211,DailyStyle Makeup 211,Beauty,Makeup,TechNova,17062,36570.73,Supplier 26,38
+P0212,TechNova Makeup 212,Beauty,Makeup,TechNova,12952,20371.31,Supplier 23,59
+P0213,GlowCare Perfume 213,Beauty,Perfume,DailyStyle,3170,4487.75,Supplier 27,76
+P0214,GlowCare Mobile 214,Electronics,Mobile,StepUp,14188,27363.06,Supplier 38,96
+P0215,FitPro Shirts 215,Fashion,Shirts,TechNova,7108,10684.97,Supplier 5,95
+P0216,TechNova Skincare 216,Beauty,Skincare,GlowCare,516,830.48,Supplier 12,91
+P0217,StepUp Perfume 217,Beauty,Perfume,StepUp,18909,36971.7,Supplier 12,68
+P0218,TechNova Smart Watch 218,Electronics,Smart Watch,FitPro,16375,20341.56,Supplier 20,83
+P0219,UrbanWear Fitness Band 219,Sports,Fitness Band,StepUp,15486,22060.12,Supplier 17,58
+P0220,GlowCare Skincare 220,Beauty,Skincare,DailyStyle,9726,15728.47,Supplier 42,51
+P0221,UrbanWear Shirts 221,Fashion,Shirts,FitPro,9383,15885.89,Supplier 48,66
+P0222,TechNova Yoga Mat 222,Sports,Yoga Mat,DailyStyle,18832,30810.44,Supplier 44,80
+P0223,UrbanWear Jeans 223,Fashion,Jeans,TechNova,17094,33041.97,Supplier 11,94
+P0224,DailyStyle Shirts 224,Fashion,Shirts,StepUp,10775,17897.75,Supplier 23,40
+P0225,TechNova Jeans 225,Fashion,Jeans,UrbanWear,12134,19651.18,Supplier 19,57
+P0226,DailyStyle Fitness Band 226,Sports,Fitness Band,StepUp,2817,4827.96,Supplier 49,32
+P0227,TechNova Gym Equipment 227,Sports,Gym Equipment,DailyStyle,18116,27583.55,Supplier 20,54
+P0228,StepUp Mobile 228,Electronics,Mobile,UrbanWear,17811,31704.41,Supplier 9,86
+P0229,StepUp Laptop 229,Electronics,Laptop,UrbanWear,16189,26096.58,Supplier 14,39
+P0230,FitPro Gym Equipment 230,Sports,Gym Equipment,FitPro,6474,12916.32,Supplier 45,87
+P0231,UrbanWear Fitness Band 231,Sports,Fitness Band,GlowCare,18358,34921.78,Supplier 30,29
+P0232,TechNova Shirts 232,Fashion,Shirts,DailyStyle,869,1459.5,Supplier 24,37
+P0233,TechNova Perfume 233,Beauty,Perfume,StepUp,17441,34246.97,Supplier 46,58
+P0234,DailyStyle Jackets 234,Fashion,Jackets,StepUp,4186,5953.99,Supplier 45,49
+P0235,UrbanWear Mobile 235,Electronics,Mobile,GlowCare,7176,9545.65,Supplier 45,34
+P0236,UrbanWear Shirts 236,Fashion,Shirts,StepUp,16168,31646.18,Supplier 7,24
+P0237,TechNova Fitness Band 237,Sports,Fitness Band,UrbanWear,2242,3742.08,Supplier 5,58
+P0238,StepUp Shirts 238,Fashion,Shirts,FitPro,4356,9235.15,Supplier 13,43
+P0239,DailyStyle Mobile 239,Electronics,Mobile,TechNova,3274,4405.35,Supplier 38,64
+P0240,FitPro Mobile 240,Electronics,Mobile,StepUp,16704,33087.32,Supplier 33,92
+P0241,FitPro Shirts 241,Fashion,Shirts,StepUp,19244,37780.67,Supplier 46,44
+P0242,DailyStyle Mobile 242,Electronics,Mobile,UrbanWear,17900,21557.49,Supplier 14,84
+P0243,DailyStyle Makeup 243,Beauty,Makeup,UrbanWear,19612,27165.09,Supplier 12,65
+P0244,GlowCare Makeup 244,Beauty,Makeup,UrbanWear,7321,12550.03,Supplier 49,60
+P0245,GlowCare Jeans 245,Fashion,Jeans,TechNova,3914,6731.01,Supplier 46,56
+P0246,GlowCare Fitness Band 246,Sports,Fitness Band,UrbanWear,1630,2090.06,Supplier 25,56
+P0247,GlowCare Perfume 247,Beauty,Perfume,StepUp,10523,19857.39,Supplier 36,72
+P0248,GlowCare Laptop 248,Electronics,Laptop,DailyStyle,6486,13340.23,Supplier 24,42
+P0249,GlowCare Jackets 249,Fashion,Jackets,GlowCare,16410,30721.09,Supplier 34,30
+P0250,FitPro Shirts 250,Fashion,Shirts,UrbanWear,13237,21187.46,Supplier 48,41
+P0251,FitPro Jeans 251,Fashion,Jeans,GlowCare,6823,10498.08,Supplier 8,49
+P0252,DailyStyle Perfume 252,Beauty,Perfume,FitPro,16654,24623.24,Supplier 38,54
+P0253,GlowCare Makeup 253,Beauty,Makeup,GlowCare,15891,29663.36,Supplier 33,55
+P0254,GlowCare Sandals 254,Footwear,Sandals,GlowCare,3840,5077.21,Supplier 15,100
+P0255,UrbanWear Running Shoes 255,Footwear,Running Shoes,GlowCare,3563,6904.38,Supplier 44,23
+P0256,FitPro Sandals 256,Footwear,Sandals,FitPro,11013,14897.69,Supplier 7,29
+P0257,DailyStyle Yoga Mat 257,Sports,Yoga Mat,GlowCare,15570,21828.08,Supplier 32,84
+P0258,FitPro Smart Watch 258,Electronics,Smart Watch,FitPro,11559,23227.6,Supplier 2,24
+P0259,GlowCare Skincare 259,Beauty,Skincare,GlowCare,12870,21236.99,Supplier 30,24
+P0260,TechNova Shirts 260,Fashion,Shirts,DailyStyle,18540,34473.48,Supplier 11,82
+P0261,GlowCare Skincare 261,Beauty,Skincare,UrbanWear,10538,20187.89,Supplier 37,82
+P0262,GlowCare Fitness Band 262,Sports,Fitness Band,FitPro,17974,31853.71,Supplier 11,84
+P0263,GlowCare Jeans 263,Fashion,Jeans,FitPro,8930,15133.59,Supplier 44,65
+P0264,UrbanWear Laptop 264,Electronics,Laptop,StepUp,2312,2839.48,Supplier 24,64
+P0265,GlowCare Gym Equipment 265,Sports,Gym Equipment,TechNova,11482,18148.14,Supplier 23,72
+P0266,DailyStyle Mobile 266,Electronics,Mobile,TechNova,8302,12018.09,Supplier 38,30
+P0267,UrbanWear Jeans 267,Fashion,Jeans,FitPro,4050,6227.26,Supplier 21,24
+P0268,GlowCare Perfume 268,Beauty,Perfume,TechNova,14143,25005.52,Supplier 2,80
+P0269,GlowCare Gym Equipment 269,Sports,Gym Equipment,TechNova,10671,16836.04,Supplier 37,32
+P0270,FitPro Skincare 270,Beauty,Skincare,DailyStyle,7047,10823.96,Supplier 22,41
+P0271,StepUp Yoga Mat 271,Sports,Yoga Mat,GlowCare,12205,26477.87,Supplier 41,29
+P0272,TechNova Gym Equipment 272,Sports,Gym Equipment,FitPro,9716,14235.45,Supplier 26,48
+P0273,FitPro Fitness Band 273,Sports,Fitness Band,UrbanWear,3313,6353.36,Supplier 38,63
+P0274,GlowCare Mobile 274,Electronics,Mobile,GlowCare,18860,37742.36,Supplier 14,64
+P0275,TechNova Jackets 275,Fashion,Jackets,GlowCare,10190,17370.28,Supplier 43,89
+P0276,FitPro Mobile 276,Electronics,Mobile,FitPro,13876,22233.53,Supplier 30,90
+P0277,FitPro Running Shoes 277,Footwear,Running Shoes,GlowCare,17215,35509.55,Supplier 14,79
+P0278,GlowCare Smart Watch 278,Electronics,Smart Watch,FitPro,17756,35670.62,Supplier 47,100
+P0279,StepUp Jackets 279,Fashion,Jackets,StepUp,6874,10752.82,Supplier 10,58
+P0280,UrbanWear Makeup 280,Beauty,Makeup,DailyStyle,10741,22128.46,Supplier 14,72
+P0281,FitPro Laptop 281,Electronics,Laptop,StepUp,5562,8100.76,Supplier 26,50
+P0282,TechNova Shirts 282,Fashion,Shirts,GlowCare,6588,8088.12,Supplier 32,91
+P0283,TechNova Makeup 283,Beauty,Makeup,StepUp,1512,2119.81,Supplier 2,53
+P0284,UrbanWear Smart Watch 284,Electronics,Smart Watch,DailyStyle,18345,25242.45,Supplier 32,22
+P0285,UrbanWear Shirts 285,Fashion,Shirts,GlowCare,10586,19071.73,Supplier 24,31
+P0286,FitPro Perfume 286,Beauty,Perfume,DailyStyle,4905,7043.78,Supplier 33,35
+P0287,FitPro Fitness Band 287,Sports,Fitness Band,TechNova,19319,41529.56,Supplier 32,31
+P0288,TechNova Sports Shoes 288,Footwear,Sports Shoes,TechNova,4306,8496.56,Supplier 38,69
+P0289,StepUp Sandals 289,Footwear,Sandals,StepUp,7443,10005.46,Supplier 18,76
+P0290,FitPro Makeup 290,Beauty,Makeup,TechNova,19616,24636.23,Supplier 45,34
+P0291,StepUp Smart Watch 291,Electronics,Smart Watch,TechNova,14186,23759.48,Supplier 10,66
+P0292,UrbanWear Perfume 292,Beauty,Perfume,DailyStyle,12350,24963.86,Supplier 39,24
+P0293,GlowCare Jackets 293,Fashion,Jackets,TechNova,8153,11846.17,Supplier 41,66
+P0294,GlowCare Jackets 294,Fashion,Jackets,UrbanWear,8045,16553.77,Supplier 26,52
+P0295,StepUp Mobile 295,Electronics,Mobile,GlowCare,8015,12001.84,Supplier 41,60
+P0296,GlowCare Skincare 296,Beauty,Skincare,GlowCare,9279,19174.54,Supplier 48,72
+P0297,UrbanWear Smart Watch 297,Electronics,Smart Watch,StepUp,14140,29365.4,Supplier 45,53
+P0298,DailyStyle Gym Equipment 298,Sports,Gym Equipment,FitPro,11829,19173.28,Supplier 48,61
+P0299,DailyStyle Perfume 299,Beauty,Perfume,DailyStyle,1196,2346.52,Supplier 12,100
+P0300,StepUp Perfume 300,Beauty,Perfume,DailyStyle,4759,5725.44,Supplier 20,60
+P0301,FitPro Gym Equipment 301,Sports,Gym Equipment,DailyStyle,3931,5337.6,Supplier 50,36
+P0302,TechNova Fitness Band 302,Sports,Fitness Band,GlowCare,13745,27388.87,Supplier 31,37
+P0303,TechNova Mobile 303,Electronics,Mobile,StepUp,19732,39992.2,Supplier 6,73
+P0304,FitPro Mobile 304,Electronics,Mobile,StepUp,13194,27395.89,Supplier 2,22
+P0305,GlowCare Fitness Band 305,Sports,Fitness Band,StepUp,7794,16420.75,Supplier 17,41
+P0306,StepUp Jeans 306,Fashion,Jeans,UrbanWear,14354,25842.84,Supplier 24,41
+P0307,GlowCare Gym Equipment 307,Sports,Gym Equipment,GlowCare,762,1461.96,Supplier 44,83
+P0308,TechNova Shirts 308,Fashion,Shirts,TechNova,6956,9672.63,Supplier 48,83
+P0309,FitPro Skincare 309,Beauty,Skincare,StepUp,14433,29679.12,Supplier 19,44
+P0310,UrbanWear Skincare 310,Beauty,Skincare,TechNova,13686,27268.86,Supplier 17,50
+P0311,DailyStyle Yoga Mat 311,Sports,Yoga Mat,DailyStyle,8436,13241.46,Supplier 30,30
+P0312,DailyStyle Jeans 312,Fashion,Jeans,GlowCare,4664,9661.21,Supplier 44,47
+P0313,TechNova Perfume 313,Beauty,Perfume,UrbanWear,14170,27434.6,Supplier 7,91
+P0314,GlowCare Shirts 314,Fashion,Shirts,TechNova,11207,23882.84,Supplier 39,96
+P0315,GlowCare Shirts 315,Fashion,Shirts,TechNova,8611,14677.81,Supplier 26,67
+P0316,TechNova Sports Shoes 316,Footwear,Sports Shoes,StepUp,1647,2932.46,Supplier 33,83
+P0317,DailyStyle Laptop 317,Electronics,Laptop,FitPro,4622,5960.75,Supplier 28,38
+P0318,StepUp Mobile 318,Electronics,Mobile,GlowCare,10565,13144.57,Supplier 18,66
+P0319,TechNova Makeup 319,Beauty,Makeup,FitPro,8925,16180.41,Supplier 21,75
+P0320,StepUp Sandals 320,Footwear,Sandals,FitPro,16398,32200.35,Supplier 43,76
+P0321,StepUp Shirts 321,Fashion,Shirts,UrbanWear,5170,6486.11,Supplier 31,53
+P0322,GlowCare Sports Shoes 322,Footwear,Sports Shoes,UrbanWear,15607,25539.76,Supplier 29,65
+P0323,DailyStyle Yoga Mat 323,Sports,Yoga Mat,StepUp,15299,25901.03,Supplier 8,64
+P0324,StepUp Shirts 324,Fashion,Shirts,DailyStyle,9609,13266.71,Supplier 33,54
+P0325,UrbanWear Fitness Band 325,Sports,Fitness Band,FitPro,19491,27529.01,Supplier 50,93
+P0326,GlowCare Sandals 326,Footwear,Sandals,DailyStyle,2817,4073.83,Supplier 7,62
+P0327,FitPro Jeans 327,Fashion,Jeans,UrbanWear,4297,6850.15,Supplier 21,39
+P0328,DailyStyle Shirts 328,Fashion,Shirts,GlowCare,15380,31232.15,Supplier 30,100
+P0329,UrbanWear Smart Watch 329,Electronics,Smart Watch,DailyStyle,490,749.42,Supplier 40,77
+P0330,UrbanWear Smart Watch 330,Electronics,Smart Watch,DailyStyle,18950,25190.62,Supplier 19,61
+P0331,FitPro Jackets 331,Fashion,Jackets,GlowCare,2617,4572.31,Supplier 6,71
+P0332,GlowCare Mobile 332,Electronics,Mobile,UrbanWear,8166,17679.79,Supplier 2,46
+P0333,DailyStyle Sandals 333,Footwear,Sandals,StepUp,13485,20024.36,Supplier 8,58
+P0334,FitPro Makeup 334,Beauty,Makeup,StepUp,10461,22007.16,Supplier 23,32
+P0335,GlowCare Smart Watch 335,Electronics,Smart Watch,GlowCare,6849,11572.23,Supplier 18,92
+P0336,TechNova Yoga Mat 336,Sports,Yoga Mat,FitPro,3256,6370.33,Supplier 12,75
+P0337,GlowCare Skincare 337,Beauty,Skincare,DailyStyle,1625,2784.18,Supplier 15,39
+P0338,GlowCare Perfume 338,Beauty,Perfume,GlowCare,17492,22459.21,Supplier 6,81
+P0339,TechNova Mobile 339,Electronics,Mobile,StepUp,4487,8454.92,Supplier 34,74
+P0340,UrbanWear Smart Watch 340,Electronics,Smart Watch,FitPro,1863,3262.1,Supplier 7,85
+P0341,DailyStyle Makeup 341,Beauty,Makeup,FitPro,3396,5653.17,Supplier 17,65
+P0342,UrbanWear Smart Watch 342,Electronics,Smart Watch,UrbanWear,2979,5864.6,Supplier 48,79
+P0343,GlowCare Running Shoes 343,Footwear,Running Shoes,DailyStyle,13176,16407.53,Supplier 20,60
+P0344,GlowCare Fitness Band 344,Sports,Fitness Band,FitPro,15209,29769.4,Supplier 17,63
+P0345,FitPro Running Shoes 345,Footwear,Running Shoes,TechNova,6364,8134.6,Supplier 44,33
+P0346,UrbanWear Perfume 346,Beauty,Perfume,UrbanWear,887,1069.59,Supplier 11,81
+P0347,DailyStyle Perfume 347,Beauty,Perfume,FitPro,13574,28081.63,Supplier 47,82
+P0348,DailyStyle Smart Watch 348,Electronics,Smart Watch,DailyStyle,12120,22914.83,Supplier 26,58
+P0349,UrbanWear Shirts 349,Fashion,Shirts,UrbanWear,4727,5737.99,Supplier 45,44
+P0350,DailyStyle Shirts 350,Fashion,Shirts,StepUp,16065,29698.13,Supplier 28,100
+P0351,GlowCare Gym Equipment 351,Sports,Gym Equipment,StepUp,3121,4684.36,Supplier 31,74
+P0352,DailyStyle Shirts 352,Fashion,Shirts,DailyStyle,5742,12072.07,Supplier 29,82
+P0353,StepUp Skincare 353,Beauty,Skincare,TechNova,15029,26830.17,Supplier 37,70
+P0354,DailyStyle Jeans 354,Fashion,Jeans,GlowCare,558,726.89,Supplier 27,83
+P0355,UrbanWear Fitness Band 355,Sports,Fitness Band,GlowCare,18463,40600.62,Supplier 26,82
+P0356,UrbanWear Fitness Band 356,Sports,Fitness Band,FitPro,16287,23321.45,Supplier 2,74
+P0357,DailyStyle Yoga Mat 357,Sports,Yoga Mat,GlowCare,18429,23285.24,Supplier 31,34
+P0358,GlowCare Perfume 358,Beauty,Perfume,UrbanWear,11662,19222.77,Supplier 11,56
+P0359,FitPro Sandals 359,Footwear,Sandals,StepUp,11567,18948.03,Supplier 38,63
+P0360,TechNova Fitness Band 360,Sports,Fitness Band,DailyStyle,15650,20832.63,Supplier 46,69
+P0361,StepUp Perfume 361,Beauty,Perfume,FitPro,12104,24159.25,Supplier 14,56
+P0362,StepUp Jackets 362,Fashion,Jackets,StepUp,16123,21429.02,Supplier 39,82
+P0363,StepUp Jeans 363,Fashion,Jeans,FitPro,16478,24777.18,Supplier 4,22
+P0364,StepUp Laptop 364,Electronics,Laptop,FitPro,11999,22521.26,Supplier 3,28
+P0365,UrbanWear Laptop 365,Electronics,Laptop,FitPro,4034,7332.05,Supplier 15,82
+P0366,FitPro Laptop 366,Electronics,Laptop,TechNova,11940,23514.32,Supplier 10,85
+P0367,GlowCare Fitness Band 367,Sports,Fitness Band,GlowCare,3712,7076.58,Supplier 49,34
+P0368,UrbanWear Jackets 368,Fashion,Jackets,FitPro,3638,7361.89,Supplier 7,41
+P0369,TechNova Shirts 369,Fashion,Shirts,DailyStyle,12150,16487.95,Supplier 29,84
+P0370,TechNova Perfume 370,Beauty,Perfume,TechNova,3553,4811.81,Supplier 9,35
+P0371,UrbanWear Sandals 371,Footwear,Sandals,StepUp,13923,27417.44,Supplier 31,63
+P0372,TechNova Smart Watch 372,Electronics,Smart Watch,DailyStyle,5911,7597.02,Supplier 49,73
+P0373,FitPro Smart Watch 373,Electronics,Smart Watch,GlowCare,8342,11275.14,Supplier 15,37
+P0374,FitPro Makeup 374,Beauty,Makeup,DailyStyle,13712,28768.67,Supplier 24,23
+P0375,FitPro Skincare 375,Beauty,Skincare,UrbanWear,625,1198.52,Supplier 6,63
+P0376,GlowCare Laptop 376,Electronics,Laptop,UrbanWear,5684,9288.07,Supplier 43,39
+P0377,GlowCare Gym Equipment 377,Sports,Gym Equipment,GlowCare,17332,37656.56,Supplier 44,90
+P0378,UrbanWear Smart Watch 378,Electronics,Smart Watch,TechNova,10579,22313.55,Supplier 34,98
+P0379,StepUp Sports Shoes 379,Footwear,Sports Shoes,FitPro,13536,22282.81,Supplier 40,99
+P0380,DailyStyle Perfume 380,Beauty,Perfume,GlowCare,11613,24244.17,Supplier 50,45
+P0381,GlowCare Mobile 381,Electronics,Mobile,DailyStyle,1511,2625.26,Supplier 47,36
+P0382,FitPro Fitness Band 382,Sports,Fitness Band,FitPro,9603,13576.09,Supplier 20,86
+P0383,FitPro Smart Watch 383,Electronics,Smart Watch,FitPro,5543,6781.43,Supplier 17,50
+P0384,UrbanWear Smart Watch 384,Electronics,Smart Watch,DailyStyle,14152,30949.78,Supplier 4,67
+P0385,UrbanWear Smart Watch 385,Electronics,Smart Watch,DailyStyle,16929,26315.68,Supplier 8,77
+P0386,StepUp Smart Watch 386,Electronics,Smart Watch,DailyStyle,470,776.98,Supplier 38,92
+P0387,TechNova Fitness Band 387,Sports,Fitness Band,DailyStyle,7962,12343.78,Supplier 46,93
+P0388,StepUp Sports Shoes 388,Footwear,Sports Shoes,UrbanWear,12675,21796.77,Supplier 21,86
+P0389,StepUp Gym Equipment 389,Sports,Gym Equipment,DailyStyle,12138,20080.01,Supplier 28,72
+P0390,StepUp Shirts 390,Fashion,Shirts,GlowCare,2337,3797.36,Supplier 14,77
+P0391,FitPro Jeans 391,Fashion,Jeans,FitPro,17544,28118.71,Supplier 50,70
+P0392,GlowCare Smart Watch 392,Electronics,Smart Watch,DailyStyle,16645,30567.9,Supplier 32,73
+P0393,DailyStyle Running Shoes 393,Footwear,Running Shoes,GlowCare,16873,22392.56,Supplier 9,85
+P0394,UrbanWear Gym Equipment 394,Sports,Gym Equipment,DailyStyle,7267,12030.03,Supplier 11,91
+P0395,TechNova Mobile 395,Electronics,Mobile,FitPro,13689,17937.19,Supplier 19,25
+P0396,TechNova Gym Equipment 396,Sports,Gym Equipment,TechNova,4158,6534.16,Supplier 19,82
+P0397,GlowCare Shirts 397,Fashion,Shirts,UrbanWear,4957,9833.66,Supplier 20,56
+P0398,FitPro Running Shoes 398,Footwear,Running Shoes,TechNova,16316,19613.23,Supplier 5,25
+P0399,GlowCare Makeup 399,Beauty,Makeup,TechNova,19078,28802.09,Supplier 25,80
+P0400,GlowCare Gym Equipment 400,Sports,Gym Equipment,GlowCare,4839,8249.35,Supplier 43,77
+P0401,FitPro Sports Shoes 401,Footwear,Sports Shoes,DailyStyle,10956,14125.73,Supplier 40,72
+P0402,UrbanWear Skincare 402,Beauty,Skincare,DailyStyle,13256,20400.96,Supplier 29,55
+P0403,DailyStyle Shirts 403,Fashion,Shirts,TechNova,1112,1970.46,Supplier 36,35
+P0404,FitPro Gym Equipment 404,Sports,Gym Equipment,FitPro,6605,14234.89,Supplier 49,26
+P0405,FitPro Fitness Band 405,Sports,Fitness Band,UrbanWear,6506,12690.33,Supplier 8,88
+P0406,StepUp Running Shoes 406,Footwear,Running Shoes,DailyStyle,9309,18494.72,Supplier 38,76
+P0407,UrbanWear Jackets 407,Fashion,Jackets,GlowCare,10799,17297.82,Supplier 2,63
+P0408,FitPro Skincare 408,Beauty,Skincare,TechNova,13896,17009.5,Supplier 25,52
+P0409,TechNova Shirts 409,Fashion,Shirts,StepUp,3554,6190.28,Supplier 12,52
+P0410,DailyStyle Shirts 410,Fashion,Shirts,StepUp,10353,22281.36,Supplier 4,98
+P0411,TechNova Mobile 411,Electronics,Mobile,GlowCare,1190,2276.83,Supplier 7,60
+P0412,UrbanWear Sandals 412,Footwear,Sandals,UrbanWear,10923,15925.02,Supplier 13,50
+P0413,FitPro Fitness Band 413,Sports,Fitness Band,GlowCare,8049,13626.79,Supplier 8,54
+P0414,UrbanWear Jeans 414,Fashion,Jeans,GlowCare,15531,27227.72,Supplier 2,72
+P0415,FitPro Running Shoes 415,Footwear,Running Shoes,DailyStyle,9119,15995.41,Supplier 7,51
+P0416,GlowCare Fitness Band 416,Sports,Fitness Band,GlowCare,4414,6641.36,Supplier 6,84
+P0417,StepUp Running Shoes 417,Footwear,Running Shoes,StepUp,12532,21811.19,Supplier 35,74
+P0418,GlowCare Yoga Mat 418,Sports,Yoga Mat,FitPro,1669,2004.47,Supplier 19,41
+P0419,TechNova Shirts 419,Fashion,Shirts,DailyStyle,16100,23720.18,Supplier 25,64
+P0420,StepUp Sports Shoes 420,Footwear,Sports Shoes,DailyStyle,17022,25214.88,Supplier 35,92
+P0421,UrbanWear Jeans 421,Fashion,Jeans,StepUp,3239,5167.19,Supplier 47,91
+P0422,TechNova Laptop 422,Electronics,Laptop,DailyStyle,7209,13051.5,Supplier 22,53
+P0423,TechNova Makeup 423,Beauty,Makeup,TechNova,8358,15564.91,Supplier 14,78
+P0424,StepUp Yoga Mat 424,Sports,Yoga Mat,DailyStyle,820,1733.49,Supplier 1,97
+P0425,GlowCare Skincare 425,Beauty,Skincare,FitPro,613,1147.97,Supplier 45,82
+P0426,DailyStyle Perfume 426,Beauty,Perfume,DailyStyle,2959,5880.44,Supplier 5,88
+P0427,TechNova Jackets 427,Fashion,Jackets,GlowCare,14887,27872.12,Supplier 39,65
+P0428,TechNova Skincare 428,Beauty,Skincare,StepUp,576,763.06,Supplier 29,21
+P0429,DailyStyle Sports Shoes 429,Footwear,Sports Shoes,DailyStyle,948,1856.58,Supplier 23,44
+P0430,StepUp Jackets 430,Fashion,Jackets,StepUp,10234,20554.11,Supplier 32,66
+P0431,DailyStyle Jeans 431,Fashion,Jeans,FitPro,16449,34617.05,Supplier 14,20
+P0432,TechNova Sports Shoes 432,Footwear,Sports Shoes,FitPro,13278,17406.75,Supplier 33,83
+P0433,FitPro Sports Shoes 433,Footwear,Sports Shoes,DailyStyle,6649,12366.07,Supplier 44,97
+P0434,DailyStyle Gym Equipment 434,Sports,Gym Equipment,UrbanWear,2441,4364.91,Supplier 9,53
+P0435,TechNova Gym Equipment 435,Sports,Gym Equipment,StepUp,17440,33640.0,Supplier 44,22
+P0436,GlowCare Fitness Band 436,Sports,Fitness Band,UrbanWear,8587,16149.4,Supplier 28,26
+P0437,DailyStyle Laptop 437,Electronics,Laptop,FitPro,13632,20094.05,Supplier 30,83
+P0438,StepUp Smart Watch 438,Electronics,Smart Watch,UrbanWear,1724,3592.48,Supplier 18,73
+P0439,StepUp Yoga Mat 439,Sports,Yoga Mat,TechNova,10662,12849.41,Supplier 6,93
+P0440,GlowCare Jackets 440,Fashion,Jackets,UrbanWear,7693,16756.09,Supplier 16,45
+P0441,DailyStyle Sandals 441,Footwear,Sandals,UrbanWear,10484,13239.66,Supplier 2,81
+P0442,TechNova Skincare 442,Beauty,Skincare,TechNova,19716,39377.21,Supplier 16,33
+P0443,TechNova Skincare 443,Beauty,Skincare,FitPro,11467,23306.88,Supplier 16,29
+P0444,DailyStyle Fitness Band 444,Sports,Fitness Band,GlowCare,14669,28811.36,Supplier 38,35
+P0445,DailyStyle Shirts 445,Fashion,Shirts,UrbanWear,1392,2195.73,Supplier 9,27
+P0446,GlowCare Skincare 446,Beauty,Skincare,UrbanWear,10178,18429.7,Supplier 7,27
+P0447,GlowCare Gym Equipment 447,Sports,Gym Equipment,UrbanWear,9963,20423.45,Supplier 40,72
+P0448,GlowCare Sports Shoes 448,Footwear,Sports Shoes,GlowCare,647,1069.76,Supplier 40,99
+P0449,TechNova Jeans 449,Fashion,Jeans,FitPro,1151,1903.84,Supplier 13,33
+P0450,FitPro Shirts 450,Fashion,Shirts,StepUp,19802,37887.15,Supplier 37,36
+P0451,DailyStyle Yoga Mat 451,Sports,Yoga Mat,FitPro,11945,19362.93,Supplier 29,43
+P0452,TechNova Running Shoes 452,Footwear,Running Shoes,FitPro,1744,2198.3,Supplier 28,85
+P0453,StepUp Laptop 453,Electronics,Laptop,StepUp,19425,40505.44,Supplier 31,59
+P0454,UrbanWear Yoga Mat 454,Sports,Yoga Mat,FitPro,9837,15432.58,Supplier 38,38
+P0455,FitPro Shirts 455,Fashion,Shirts,UrbanWear,16916,34156.51,Supplier 28,64
+P0456,TechNova Running Shoes 456,Footwear,Running Shoes,StepUp,6894,13686.41,Supplier 43,80
+P0457,FitPro Perfume 457,Beauty,Perfume,TechNova,11150,22879.9,Supplier 40,58
+P0458,UrbanWear Makeup 458,Beauty,Makeup,GlowCare,5617,7329.33,Supplier 15,20
+P0459,StepUp Sports Shoes 459,Footwear,Sports Shoes,StepUp,7845,13073.98,Supplier 31,62
+P0460,UrbanWear Skincare 460,Beauty,Skincare,TechNova,13417,18572.41,Supplier 1,29
+P0461,TechNova Mobile 461,Electronics,Mobile,GlowCare,18476,24299.44,Supplier 13,100
+P0462,StepUp Yoga Mat 462,Sports,Yoga Mat,StepUp,1738,3780.69,Supplier 19,42
+P0463,FitPro Sandals 463,Footwear,Sandals,StepUp,6010,9254.3,Supplier 12,45
+P0464,UrbanWear Shirts 464,Fashion,Shirts,DailyStyle,8878,18738.34,Supplier 9,68
+P0465,StepUp Jeans 465,Fashion,Jeans,TechNova,7189,10819.97,Supplier 24,41
+P0466,UrbanWear Fitness Band 466,Sports,Fitness Band,UrbanWear,14512,30161.56,Supplier 10,36
+P0467,TechNova Running Shoes 467,Footwear,Running Shoes,TechNova,17750,28012.97,Supplier 39,74
+P0468,FitPro Running Shoes 468,Footwear,Running Shoes,TechNova,19545,27150.0,Supplier 10,61
+P0469,FitPro Running Shoes 469,Footwear,Running Shoes,FitPro,9477,19644.41,Supplier 32,46
+P0470,GlowCare Jeans 470,Fashion,Jeans,DailyStyle,2425,3316.03,Supplier 49,85
+P0471,TechNova Laptop 471,Electronics,Laptop,DailyStyle,17303,28796.82,Supplier 24,87
+P0472,FitPro Perfume 472,Beauty,Perfume,GlowCare,16513,27638.77,Supplier 41,94
+P0473,GlowCare Shirts 473,Fashion,Shirts,StepUp,7493,15696.97,Supplier 26,47
+P0474,TechNova Laptop 474,Electronics,Laptop,TechNova,12656,22418.46,Supplier 36,30
+P0475,TechNova Running Shoes 475,Footwear,Running Shoes,StepUp,9968,16392.43,Supplier 38,25
+P0476,GlowCare Perfume 476,Beauty,Perfume,GlowCare,11322,18410.73,Supplier 27,67
+P0477,StepUp Makeup 477,Beauty,Makeup,GlowCare,9246,14630.6,Supplier 15,53
+P0478,FitPro Jeans 478,Fashion,Jeans,FitPro,3000,4483.55,Supplier 35,30
+P0479,TechNova Mobile 479,Electronics,Mobile,UrbanWear,3524,4646.7,Supplier 35,45
+P0480,DailyStyle Mobile 480,Electronics,Mobile,DailyStyle,11088,16077.86,Supplier 18,44
+P0481,UrbanWear Gym Equipment 481,Sports,Gym Equipment,TechNova,18097,38227.79,Supplier 19,64
+P0482,UrbanWear Makeup 482,Beauty,Makeup,GlowCare,19303,37791.53,Supplier 42,85
+P0483,DailyStyle Sandals 483,Footwear,Sandals,StepUp,7757,11068.67,Supplier 31,49
+P0484,DailyStyle Fitness Band 484,Sports,Fitness Band,GlowCare,18408,36035.89,Supplier 22,30
+P0485,DailyStyle Mobile 485,Electronics,Mobile,GlowCare,14350,28271.38,Supplier 14,76
+P0486,FitPro Perfume 486,Beauty,Perfume,StepUp,1286,2025.06,Supplier 20,21
+P0487,GlowCare Perfume 487,Beauty,Perfume,GlowCare,11921,18356.22,Supplier 44,71
+P0488,FitPro Yoga Mat 488,Sports,Yoga Mat,UrbanWear,10984,19627.91,Supplier 9,39
+P0489,GlowCare Smart Watch 489,Electronics,Smart Watch,StepUp,19104,39486.91,Supplier 26,28
+P0490,TechNova Yoga Mat 490,Sports,Yoga Mat,FitPro,6471,10837.49,Supplier 29,58
+P0491,StepUp Shirts 491,Fashion,Shirts,UrbanWear,3718,6970.82,Supplier 45,97
+P0492,GlowCare Skincare 492,Beauty,Skincare,TechNova,6417,8977.37,Supplier 14,49
+P0493,UrbanWear Smart Watch 493,Electronics,Smart Watch,TechNova,17483,22203.05,Supplier 34,21
+P0494,UrbanWear Sandals 494,Footwear,Sandals,StepUp,13763,21898.38,Supplier 35,73
+P0495,StepUp Perfume 495,Beauty,Perfume,StepUp,2553,4056.7,Supplier 14,59
+P0496,FitPro Perfume 496,Beauty,Perfume,TechNova,15857,21546.19,Supplier 38,45
+P0497,UrbanWear Fitness Band 497,Sports,Fitness Band,StepUp,15339,22631.79,Supplier 29,28
+P0498,FitPro Perfume 498,Beauty,Perfume,GlowCare,8388,14476.48,Supplier 30,79
+P0499,GlowCare Gym Equipment 499,Sports,Gym Equipment,TechNova,3285,4887.79,Supplier 45,58
+P0500,StepUp Perfume 500,Beauty,Perfume,FitPro,6038,9751.69,Supplier 47,75

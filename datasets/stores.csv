@@ -1,0 +1,51 @@
+store_id,store_name,city,state,region,store_type,opening_date
+S001,Retail Store 1,Ahmedabad,Gujarat,West,Outlet,2018-07-30
+S002,Retail Store 2,Bengaluru,Karnataka,South,Mall,2021-07-22
+S003,Retail Store 3,Delhi,Delhi,North,High Street,2024-03-13
+S004,Retail Store 4,Pune,Maharashtra,West,Airport,2018-06-29
+S005,Retail Store 5,Mumbai,Maharashtra,West,High Street,2020-06-07
+S006,Retail Store 6,Kolkata,West Bengal,East,Mall,2021-10-31
+S007,Retail Store 7,Mumbai,Maharashtra,West,Mall,2020-04-23
+S008,Retail Store 8,Chennai,Tamil Nadu,South,Outlet,2020-11-28
+S009,Retail Store 9,Bengaluru,Karnataka,South,Airport,2023-08-23
+S010,Retail Store 10,Delhi,Delhi,North,Outlet,2025-09-01
+S011,Retail Store 11,Mumbai,Maharashtra,West,Outlet,2021-09-10
+S012,Retail Store 12,Chennai,Tamil Nadu,South,Outlet,2023-10-15
+S013,Retail Store 13,Kolkata,West Bengal,East,Mall,2025-11-06
+S014,Retail Store 14,Pune,Maharashtra,West,Mall,2024-06-08
+S015,Retail Store 15,Chennai,Tamil Nadu,South,Outlet,2020-07-13
+S016,Retail Store 16,Ahmedabad,Gujarat,West,Mall,2025-01-15
+S017,Retail Store 17,Hyderabad,Telangana,South,Outlet,2024-05-24
+S018,Retail Store 18,Ahmedabad,Gujarat,West,Airport,2024-02-28
+S019,Retail Store 19,Bengaluru,Karnataka,South,Mall,2019-02-28
+S020,Retail Store 20,Mumbai,Maharashtra,West,High Street,2022-09-02
+S021,Retail Store 21,Mumbai,Maharashtra,West,Outlet,2024-01-30
+S022,Retail Store 22,Mumbai,Maharashtra,West,Mall,2018-05-16
+S023,Retail Store 23,Pune,Maharashtra,West,High Street,2021-01-10
+S024,Retail Store 24,Chennai,Tamil Nadu,South,High Street,2023-07-16
+S025,Retail Store 25,Delhi,Delhi,North,High Street,2021-01-04
+S026,Retail Store 26,Delhi,Delhi,North,Mall,2021-08-03
+S027,Retail Store 27,Pune,Maharashtra,West,Outlet,2025-05-19
+S028,Retail Store 28,Delhi,Delhi,North,Mall,2021-09-26
+S029,Retail Store 29,Hyderabad,Telangana,South,High Street,2021-10-07
+S030,Retail Store 30,Hyderabad,Telangana,South,High Street,2024-12-10
+S031,Retail Store 31,Delhi,Delhi,North,Outlet,2025-08-27
+S032,Retail Store 32,Delhi,Delhi,North,Airport,2023-10-24
+S033,Retail Store 33,Mumbai,Maharashtra,West,High Street,2024-11-19
+S034,Retail Store 34,Bengaluru,Karnataka,South,High Street,2025-06-22
+S035,Retail Store 35,Kolkata,West Bengal,East,Mall,2022-04-20
+S036,Retail Store 36,Chennai,Tamil Nadu,South,High Street,2018-12-18
+S037,Retail Store 37,Hyderabad,Telangana,South,Outlet,2021-03-03
+S038,Retail Store 38,Mumbai,Maharashtra,West,High Street,2023-07-28
+S039,Retail Store 39,Mumbai,Maharashtra,West,Airport,2022-05-05
+S040,Retail Store 40,Bengaluru,Karnataka,South,Mall,2021-06-16
+S041,Retail Store 41,Chennai,Tamil Nadu,South,Mall,2021-08-08
+S042,Retail Store 42,Hyderabad,Telangana,South,Outlet,2023-07-02
+S043,Retail Store 43,Mumbai,Maharashtra,West,Airport,2018-09-05
+S044,Retail Store 44,Chennai,Tamil Nadu,South,Mall,2025-03-19
+S045,Retail Store 45,Hyderabad,Telangana,South,Outlet,2022-08-02
+S046,Retail Store 46,Ahmedabad,Gujarat,West,Mall,2019-12-15
+S047,Retail Store 47,Bengaluru,Karnataka,South,Airport,2024-11-26
+S048,Retail Store 48,Chennai,Tamil Nadu,South,Outlet,2018-05-14
+S049,Retail Store 49,Bengaluru,Karnataka,South,Airport,2024-01-01
+S050,Retail Store 50,Chennai,Tamil Nadu,South,Outlet,2025-03-18

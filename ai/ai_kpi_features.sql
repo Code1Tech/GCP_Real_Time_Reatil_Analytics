@@ -1,0 +1,42 @@
+CREATE OR REPLACE TABLE `gcp-project-usecase.retail_gold.ai_demand_forecasting_features`
+AS
+SELECT
+  sales_date,
+  product_id,
+  product_name,
+  category,
+  region,
+  SUM(quantity) AS daily_units_sold,
+  SUM(total_amount) AS daily_revenue
+FROM `gcp-project-usecase.retail_silver.enterprise_sales_clean`
+GROUP BY sales_date, product_id, product_name, category, region;
+
+CREATE OR REPLACE TABLE `gcp-project-usecase.retail_gold.ai_churn_features`
+AS
+SELECT
+  customer_id,
+  COUNT(DISTINCT transaction_id) AS order_count,
+  SUM(total_amount) AS lifetime_value,
+  AVG(total_amount) AS avg_order_value,
+  DATE_DIFF(CURRENT_DATE(), MAX(sales_date), DAY) AS recency_days,
+  COUNT(DISTINCT category) AS category_diversity,
+  COUNTIF(is_returned = TRUE) AS return_count,
+  CASE
+    WHEN DATE_DIFF(CURRENT_DATE(), MAX(sales_date), DAY) > 120 THEN 1
+    ELSE 0
+  END AS churn_label
+FROM `gcp-project-usecase.retail_silver.enterprise_sales_clean`
+GROUP BY customer_id;
+
+CREATE OR REPLACE TABLE `gcp-project-usecase.retail_gold.ai_recommendation_features`
+AS
+SELECT
+  customer_id,
+  product_id,
+  product_name,
+  category,
+  COUNT(*) AS purchase_count,
+  SUM(quantity) AS total_quantity,
+  SUM(total_amount) AS total_spend
+FROM `gcp-project-usecase.retail_silver.enterprise_sales_clean`
+GROUP BY customer_id, product_id, product_name, category;
