@@ -95,3 +95,6 @@ Desktop.ini
 *.tmp
 *.bak
 *.swp
+# Cloud Composer backup - contains secrets
+composer_backup/
+retail-analytics-composer-backup-*.zip
